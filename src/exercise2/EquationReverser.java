@@ -1,3 +1,9 @@
+/*
+Nilsu Yıldız
+240444020
+26.10.2026
+ */
+
 package exercise2;
 
 public class EquationReverser {
